@@ -1,0 +1,18 @@
+{
+    "schema": 1,
+    "author": "P3DROVFX",
+    "presets": [
+        {
+            "id": "stayfocused",
+            "name": "StayFocused",
+            "description": "",
+            "version": "1.0.0",
+            "configVersion": 13,
+            "path": "presets/stayfocused",
+            "wallpaper": "presets/stayfocused/wallpaper.png",
+            "screenshots": [
+                "presets/stayfocused/screenshots/1.png"
+            ]
+        }
+    ]
+}
