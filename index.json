@@ -13,6 +13,19 @@
             "screenshots": [
                 "presets/stayfocused/screenshots/1.png"
             ]
+        },
+        {
+            "id": "estelar",
+            "name": "ESTELAR",
+            "description": "",
+            "version": "1.0.0",
+            "configVersion": 16,
+            "path": "presets/estelar",
+            "wallpaper": "presets/estelar/wallpaper.jpeg",
+            "banner": "presets/estelar/banner.png",
+            "screenshots": [
+                "presets/estelar/screenshots/1.png"
+            ]
         }
     ]
 }

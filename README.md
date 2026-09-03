@@ -5,6 +5,7 @@ Community presets collection for [Illogical Impulse](https://github.com/vaxerski
 ## Available Presets
 
 - **StayFocused** (`stayfocused`, v1.0.0)
+- **ESTELAR** (`estelar`, v1.0.0)
 
 ## How to Install
 

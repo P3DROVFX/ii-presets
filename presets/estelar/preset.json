@@ -1,0 +1,21 @@
+{
+    "schema": 1,
+    "name": "ESTELAR",
+    "author": "P3DROVFX",
+    "description": "",
+    "version": "1.0.0",
+    "configVersion": 16,
+    "config": "config.json",
+    "screenshots": [
+        "screenshots/1.png"
+    ],
+    "changelog": [
+        {
+            "version": "1.0.0",
+            "date": "2026-09-03",
+            "notes": "First release."
+        }
+    ],
+    "wallpaper": "wallpaper.jpeg",
+    "banner": "banner.png"
+}
