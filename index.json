@@ -26,6 +26,19 @@
             "screenshots": [
                 "presets/estelar/screenshots/1.png"
             ]
+        },
+        {
+            "id": "f40",
+            "name": "F40",
+            "description": "",
+            "version": "1.0.0",
+            "configVersion": 21,
+            "path": "presets/f40",
+            "wallpaper": "presets/f40/wallpaper.png",
+            "banner": "presets/f40/banner.png",
+            "screenshots": [
+                "presets/f40/screenshots/1.png"
+            ]
         }
     ]
 }

@@ -1,0 +1,21 @@
+{
+    "schema": 1,
+    "name": "F40",
+    "author": "P3DROVFX",
+    "description": "",
+    "version": "1.0.0",
+    "configVersion": 21,
+    "config": "config.json",
+    "screenshots": [
+        "screenshots/1.png"
+    ],
+    "changelog": [
+        {
+            "version": "1.0.0",
+            "date": "2026-09-13",
+            "notes": "First release."
+        }
+    ],
+    "wallpaper": "wallpaper.png",
+    "banner": "banner.png"
+}
