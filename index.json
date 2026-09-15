@@ -39,6 +39,19 @@
             "screenshots": [
                 "presets/f40/screenshots/1.png"
             ]
+        },
+        {
+            "id": "crabcake",
+            "name": "Crabcake",
+            "description": "hello sir",
+            "version": "1.0.0",
+            "configVersion": 21,
+            "path": "presets/crabcake",
+            "wallpaper": "presets/crabcake/wallpaper.jpg",
+            "banner": "presets/crabcake/banner.png",
+            "screenshots": [
+                "presets/crabcake/screenshots/1.png"
+            ]
         }
     ]
 }

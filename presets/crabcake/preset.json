@@ -1,0 +1,21 @@
+{
+    "schema": 1,
+    "name": "Crabcake",
+    "author": "P3DROVFX",
+    "description": "hello sir",
+    "version": "1.0.0",
+    "configVersion": 21,
+    "config": "config.json",
+    "screenshots": [
+        "screenshots/1.png"
+    ],
+    "changelog": [
+        {
+            "version": "1.0.0",
+            "date": "2026-09-15",
+            "notes": "First release."
+        }
+    ],
+    "wallpaper": "wallpaper.jpg",
+    "banner": "banner.png"
+}
