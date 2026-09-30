@@ -1,0 +1,21 @@
+{
+    "schema": 1,
+    "name": "GoogleBook",
+    "author": "P3DROVFX",
+    "description": "GoogleBook",
+    "version": "1.0.0",
+    "configVersion": 27,
+    "config": "config.json",
+    "screenshots": [
+        "screenshots/1-62b4e12c.png"
+    ],
+    "changelog": [
+        {
+            "version": "1.0.0",
+            "date": "2026-09-29",
+            "notes": "First release."
+        }
+    ],
+    "wallpaper": "wallpaper.png",
+    "banner": "banner.png"
+}

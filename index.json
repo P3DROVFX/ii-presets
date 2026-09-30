@@ -52,6 +52,19 @@
             "screenshots": [
                 "presets/crabcake/screenshots/1.png"
             ]
+        },
+        {
+            "id": "googlebook",
+            "name": "GoogleBook",
+            "description": "GoogleBook",
+            "version": "1.0.0",
+            "configVersion": 27,
+            "path": "presets/googlebook",
+            "wallpaper": "presets/googlebook/wallpaper.png",
+            "banner": "presets/googlebook/banner.png",
+            "screenshots": [
+                "presets/googlebook/screenshots/1-62b4e12c.png"
+            ]
         }
     ]
 }

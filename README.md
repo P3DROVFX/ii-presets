@@ -8,6 +8,7 @@ Community presets collection for [Illogical Impulse](https://github.com/vaxerski
 - **ESTELAR** (`estelar`, v1.0.0)
 - **F40** (`f40`, v1.0.0)
 - **Crabcake** (`crabcake`, v1.0.0) — hello sir
+- **GoogleBook** (`googlebook`, v1.0.0) — GoogleBook
 
 ## How to Install
 
