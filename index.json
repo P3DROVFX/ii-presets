@@ -65,6 +65,20 @@
             "screenshots": [
                 "presets/googlebook/screenshots/1-62b4e12c.png"
             ]
+        },
+        {
+            "id": "power",
+            "name": "Power",
+            "description": "powa",
+            "version": "1.0.0",
+            "configVersion": 29,
+            "path": "presets/power",
+            "wallpaper": "presets/power/wallpaper.mp4",
+            "banner": "presets/power/banner.jpg",
+            "screenshots": [
+                "presets/power/screenshots/1-39c28b6f.png"
+            ],
+            "poster": "presets/power/poster.jpg"
         }
     ]
 }

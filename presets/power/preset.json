@@ -1,0 +1,25 @@
+{
+    "schema": 1,
+    "name": "Power",
+    "author": "P3DROVFX",
+    "description": "powa",
+    "version": "1.0.0",
+    "configVersion": 29,
+    "config": "config.json",
+    "screenshots": [
+        "screenshots/1-39c28b6f.png"
+    ],
+    "changelog": [
+        {
+            "version": "1.0.0",
+            "date": "2026-10-06",
+            "notes": "First release."
+        }
+    ],
+    "wallpaper": "wallpaper.mp4",
+    "poster": "poster.jpg",
+    "banner": "banner.jpg",
+    "screens": [
+        "screen0.jpg"
+    ]
+}

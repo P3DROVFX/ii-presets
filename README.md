@@ -9,6 +9,7 @@ Community presets collection for [Illogical Impulse](https://github.com/vaxerski
 - **F40** (`f40`, v1.0.0)
 - **Crabcake** (`crabcake`, v1.0.0) — hello sir
 - **GoogleBook** (`googlebook`, v1.0.0) — GoogleBook
+- **Power** (`power`, v1.0.0) — powa
 
 ## How to Install
 
