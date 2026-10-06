@@ -79,6 +79,18 @@
                 "presets/power/screenshots/1-39c28b6f.png"
             ],
             "poster": "presets/power/poster.jpg"
+        },
+        {
+            "id": "cerrote-sete",
+            "name": "Cerrote Sete",
+            "description": "cerrote sete aura farming",
+            "version": "1.0.0",
+            "configVersion": 29,
+            "path": "presets/cerrote-sete",
+            "wallpaper": "presets/cerrote-sete/wallpaper.png",
+            "screenshots": [
+                "presets/cerrote-sete/screenshots/1-2a55ebde.png"
+            ]
         }
     ]
 }

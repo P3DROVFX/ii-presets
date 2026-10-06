@@ -10,6 +10,7 @@ Community presets collection for [Illogical Impulse](https://github.com/vaxerski
 - **Crabcake** (`crabcake`, v1.0.0) — hello sir
 - **GoogleBook** (`googlebook`, v1.0.0) — GoogleBook
 - **Power** (`power`, v1.0.0) — powa
+- **Cerrote Sete** (`cerrote-sete`, v1.0.0) — cerrote sete aura farming
 
 ## How to Install
 
